@@ -69,11 +69,13 @@ p {
 }
 
 a {
-  color: $blue;
+  color: blue;
   text-decoration: none;
 	cursor: pointer;
+    font-weight: bold;
   &:hover, &:active {
     color: $blue;
+  border-bottom: 1px solid;
   }
 }
 
@@ -287,3 +289,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
