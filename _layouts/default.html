@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/_sass/fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/fontawesome.css">
   </head>
 
   <body>
@@ -28,6 +28,7 @@
           <nav>
             <a href="/">Home</a>
             <a href="{{ site.baseurl }}/updates">Updates</a>
+            <a href="{{ site.baseurl }}/publications">Publications</a>
             <a href="https://drive.google.com/file/d/16gPoMXdpg6HXKELv9KnjmevV648Oa-dw/view?usp=sharing" target="_blank">CV</a>
         </header>
       </div>
@@ -38,15 +39,6 @@
       {{ content }}
     </div>
 
-
-     <div id="main" role="main" class="container">
-	<h2>Some important milestones:</h2>
-	<ul class="posts">
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date: "%Y %B" }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-    </div>
 
 
     <div class="wrapper-footer">
