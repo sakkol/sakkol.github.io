@@ -1,6 +1,5 @@
 ---
 layout: index_page
-title: Welcome!
 ---
 <img src="images/HFA-plasma-allt.png?raw=true" title="High Frequency Activity in anterior STG when listening to the speech (gray line) across trials (different colors)"/>
 
