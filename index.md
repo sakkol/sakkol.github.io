@@ -3,7 +3,7 @@ layout: index_page
 ---
 <img src="images/HFA-plasma-allt.png?raw=true" title="High Frequency Activity in anterior STG when listening to the speech (gray line) across trials (different colors)"/>
 
-I am Serdar Akkol, MD, an aspiring physician-scientist. I am interested in understanding ["the theater of mind"](http://metaphors.lib.virginia.edu/metaphors/12137). I use neuroimaging and electrophysiological recordings to understand how the brain produces the various cognitive processes like language and diseases like epilepsy. I would like to translate the knowledge I obtained and produced into the care of patients with neurological diseases.
+I am Serdar Akkol, MD, an aspiring physician-scientist. I am interested in understanding ["the theater of mind"](http://metaphors.lib.virginia.edu/metaphors/12137). I use neuroimaging and electrophysiological recordings to understand various cognitive processes like language and diseases like epilepsy. I would like to translate the knowledge I obtained and produced into the care of patients with neurological diseases.
 
 I graduated from Istanbul University, Cerrahpaşa School of Medicine in June, 2018. After receiving my medical degree, I started to work with [Dr.Josef Parvizi](https://scholar.google.com.tr/citations?user=t4XXQ7AAAAAJ&hl=en&oi=ao) as a postdoctoral scholar at [Stanford University](https://med.stanford.edu/neurology.html) until May 2019. To pursue my ideal to be a physician-scientist, I started my PhD with [Dr.Stephan Bickel](https://pubmed.ncbi.nlm.nih.gov/?term=Bickel%2C+Stephan%5BAuthor%5D&sort=) and [Dr.Ashesh Mehta](https://scholar.google.com.tr/citations?user=Foh8-ewAAAAJ&hl=en&oi=ao) at [the Feinstein Institutes for Medical Research at Northwell Health](https://feinstein.northwell.edu/).
 
