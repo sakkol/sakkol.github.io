@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+
+     <div id="main" role="main" class="container">
+	<ul class="posts"  style="text-justify:none">
+	  {% for post in site.categories.blogposts %}
+	    <span>{{ post.date | date: "%B, %Y" }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	    <p></p>
+	    {% if post.image %}
+	    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" width="33%">
+	    {% endif %}
+	    <HR>
+	  {% endfor %}
+	</ul>
+    </div>
+
+
