@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activated AAN and APAN memberships
+title: Activated AAN and APSA memberships
 ---
 
 I have started my memberships in [American Academy of Neurology](https://www.aan.com/){:target="_blank"} and [American Physician Scientists Association](https://www.physicianscientists.org/){:target="_blank"}. 
