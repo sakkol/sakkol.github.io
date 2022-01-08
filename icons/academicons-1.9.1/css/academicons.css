@@ -29,6 +29,12 @@
 .ai-academia:before {
   content: "\e9af";
 }
+.fa-spotify:before {
+  content: "\f1bc";
+}
+.fa-youtube:before {
+  content: "\f167";
+}
 .ai-academia-square:before {
   content: "\e93d";
 }
