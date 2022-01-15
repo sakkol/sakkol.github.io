@@ -21,6 +21,10 @@ body {
 	background: $white;
   font: 15.5px/1.4 $helvetica;
   color: $darkGray;
+
+  @include mobile {
+    font-size: 13px;
+  }
 }
 
 .container {
