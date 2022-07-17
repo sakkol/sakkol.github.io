@@ -70,6 +70,12 @@ body {
   color: #333;
 }
 
+@media screen and (max-width: 640px) {
+  body {
+    font-size: 13px;
+  }
+}
+
 .container {
   margin: 0 auto;
   max-width: 800px;
@@ -95,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 25px;
 }
 
 h1 a {
@@ -257,14 +263,14 @@ img {
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 24px;
+  letter-spacing: 0.2px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: #666;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 @media screen and (max-width: 640px) {
@@ -285,7 +291,7 @@ nav {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
