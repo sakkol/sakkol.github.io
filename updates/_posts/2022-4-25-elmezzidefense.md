@@ -1,0 +1,15 @@
+---
+layout: post
+title: PhD Thesis Defense and Graduation
+---
+On April 25th, 2022, I successfully defended my thesis titled "The Roles of Neural Oscillations and Electrical Stimulation in Speech Perception". 
+
+My Thesis Graduation Committee composed of [Edmund Lalor, PhD](https://www.urmc.rochester.edu/people/30415577-edmund-c-lalor){:target="_blank"}, [Fred Lado, MD PhD](https://www.northwell.edu/find-care/find-a-doctor/neurology/dr-fred-alexander-lado-md-11374426){:target="_blank"}, [Theodoros Zanos, PhD](https://feinstein.northwell.edu/institutes-researchers/our-researchers/theodoros-zanos-phd){:target="_blank"}, [Timir Datta-Chaudhuri, PhD](https://feinstein.northwell.edu/institutes-researchers/our-researchers/timir-datta-chaudhuri-phd){:target="_blank"}, [Annette Lee, PhD](https://feinstein.northwell.edu/institutes-researchers/our-researchers/annette-t-lee-phd){:target="_blank"} and [Christine Metz, PhD](https://feinstein.northwell.edu/institutes-researchers/our-researchers/christine-metz-phd){:target="_blank"}. During my defense, my dear advisors,[Stephan Bickel, MD PhD](https://pubmed.ncbi.nlm.nih.gov/?term=Bickel%2C+Stephan%5BAuthor%5D&sort=){:target="_blank"} and [Ashesh Mehta, MD PhD](https://scholar.google.com.tr/citations?user=Foh8-ewAAAAJ&hl=en&oi=ao){:target="_blank"}, silently watched me as I was getting excited about the future avenues of my research.
+
+On [May 26th, 2022](https://twitter.com/sakkol_/status/1537270868656676865){:target="_blank"}, I officially received my PhD diploma along with my fellow Elmezzi Scholars, [Sara Siskind, MD PhD](https://twitter.com/sarasiskind){:target="_blank"}, and [Santiago Miyara, MD PhD](https://twitter.com/MiyaraMDPhD){:target="_blank"}. 
+
+During my PhD, I acquired immense amount of knowledge about the brain and the field of cognitive neuroscience. This is thanks to my great advisors, Stephan and Ash. They allowed me to pursue my interest in studying the speech perception and guided me through it. During my PhD, I was very lucky to join a lab of great people, [Jose Herrero](https://feinstein.northwell.edu/institutes-researchers/our-researchers/jose-l-herrero-rubio-phd){:target="_blank"}, [Sabina Gherman](https://sabinagherman.com/){:target="_blank"}, [Elizabeth Espinal](https://twitter.com/eespinal_npsych){:target="_blank"}, [Noah Markowitz](https://github.com/sportnoah14){:target="_blank"}, [Akash Mishra](https://www.linkedin.com/in/akash-mishra-29a41015b){:target="_blank"} and [Gelana Tostaeva](https://twitter.com/gelana_t){:target="_blank"}. This chance was, of course, given to me by the [the Elmezzi Foundation](https://elmezzi.org/){:target="_blank"} and [the Elmezzi Graduate School of Molecular Medicine](https://www.northwell.edu/education-and-resources/elmezzi-graduate-school-of-molecular-medicine){:target="_blank"} of [the Feinstein Institutes for Medical Research at Northwell Health](https://feinstein.northwell.edu/){:target="_blank"}, I will be forever grateful for this opportunity.
+
+
+<div style="text-align:center"><img src="/images/defenseLab.jpg?raw=true" title="A memory with my awesome lab"/></div>
+
