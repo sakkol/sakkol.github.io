@@ -4,6 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
+
+<h3>2023</h3>
+- Yavuz M, İyiköşker P, Mutlu N, Kiliçparlar S, Şalci ÖH, Dolu G, Kaymakçilar EN, ___Akkol S___, Onat F. Dexmedetomidine, an alpha 2A receptor agonist, triggers seizures unilaterally in GAERS during the pre-epileptic phase: does the onset of spike-and-wave discharges occur in a focal manner? Front Neurol, 2023 Dec 11:14:1231736. <a href="https://doi.org/10.3389/fneur.2023.1231736" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+- Yavuz M, ___Akkol S___, Onat F. Alpha-2a adrenergic receptor (α2ar) activation in genetic absence epilepsy: an absence status model? Epilepsia Open. 2023 Dec 10. <a href="https://doi.org/10.1002/epi4.12879" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+- Menoua K, ___Akkol S___, Herrero J, Bickel S, Mehta AD, Mesgarani N. Joint, distributed and hierarchically organized encoding of linguistic features in the human auditory cortex. Nat Hum Behav. 2023 May;7(5):740-753. <a href="https://doi.org/10.1038/s41562-023-01520-0" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+
+<h3>2022</h3>
+- ___Akkol S___, Shapira I, Seay NWG, Houston JT. A Wolf in Hiding: Epilepsy and Post-ictal Psychosis as Unrecognized Presenting Features of Systemic Lupus Erythematosus. Cureus. 2022 Sep 25;14(9):e29577. <a href="https://doi.org/10.7759/cureus.29577" target="_blank"  class="ai ai-doi ai-lg"></a>
+
 <h3>2021</h3>
 - ___Akkol S___, Kucyi A, Hu W, Zhao B, Zhang C, Sava-Segal C, Razavi B, Zhang J, Zhang K, Parvizi J. Intracranial electroencephalography reveals selective responses to cognitive stimuli in the periventricular heterotopias. 
 J Neurosci. 2021 Mar 16;JN-RM-2785-20. <a href="https://doi.org/10.1523/JNEUROSCI.2785-20.2021" target="_blank"  class="ai ai-doi ai-lg"></a>
