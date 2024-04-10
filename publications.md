@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 
+<h3>2024</h3>
+- Pinheiro-Chagas P, Sava-Segal C, ___Akkol S___, Daitch A, Parvizi J. Spatiotemporal dynamics of successive activations across the human brain during simple arithmetic processing. 2024 Mar 14:e2118222024. <a href="https://doi.org/10.1523/jneurosci.2118-22.2024" target="_blank"  class="ai ai-doi ai-lg"></a>
+
 <h3>2023</h3>
 - Yavuz M, İyiköşker P, Mutlu N, Kiliçparlar S, Şalci ÖH, Dolu G, Kaymakçilar EN, ___Akkol S___, Onat F. Dexmedetomidine, an alpha 2A receptor agonist, triggers seizures unilaterally in GAERS during the pre-epileptic phase: does the onset of spike-and-wave discharges occur in a focal manner? Front Neurol, 2023 Dec 11:14:1231736. <a href="https://doi.org/10.3389/fneur.2023.1231736" target="_blank"  class="ai ai-doi ai-lg"></a>
 
