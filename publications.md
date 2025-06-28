@@ -5,6 +5,12 @@ permalink: /publications/
 ---
 
 
+<h3>2025</h3>
+- Mishra A, ___Akkol S___, et al. Hippocampal and cortical high-frequency oscillations orchestrate human semantic networks during word list memory. iScience. 2025 Mar 13. <a href="https://doi.org/10.1016/j.isci.2025.112171" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+- Klaus S, ___Akkol S___, et al. Examining the Role of Physical Activity in Older Adults with Epilepsy. Epilepsy Behav Rep. 2025 Feb 17:30:100756. <a href="https://doi.org/10.1016/j.ebr.2025.100756" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+
 <h3>2024</h3>
 - Pinheiro-Chagas P, Sava-Segal C, ___Akkol S___, Daitch A, Parvizi J. Spatiotemporal dynamics of successive activations across the human brain during simple arithmetic processing. 2024 Mar 14:e2118222024. <a href="https://doi.org/10.1523/jneurosci.2118-22.2024" target="_blank"  class="ai ai-doi ai-lg"></a>
 
