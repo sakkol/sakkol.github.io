@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper on speech induced entrainment
+title: Paper on speech induced entrainment in Progress in Neurobiology
 ---
 Paper from one of my PhD projects with Stephan Bickel and Ashesh Mehta was published in Progress in Neurobiology! 
 "Neural entrainment by speech in human auditory cortex revealed by intracranial recordings"
