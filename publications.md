@@ -4,6 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+<h3>2026</h3>
+- Gary S, ___Akkol S___, et al. Presentation of Neurological Rosai-Dorfman Disease Over 12 Years. Case Rep Neurol Med. 2026 Jul 26:2026:8933434. <a href="https://doi.org/10.1155/crnm/8933434" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+- ___Akkol S___, Brinyark HE, Chatfield R, Vaddiparti A, Smith RJ, Cox BC. Anti-seizure medications alter functional and effective connectivity as measured with intracranial electroencephalography. Brain Behav. 2026 Jun;16(6):e71507. <a href="https://doi.org/10.1002/brb3.71507" target="_blank"  class="ai ai-doi ai-lg"></a>
+
+- ___Akkol S___, Herrero JL, Espinal E, Markowitz N, Datta-Chaudhuri T, Mehta AD, Bickel S. Dynamic, minimally invasive electrical brain stimulation improves speech perception. Hear Res. 2026 Apr 16:476:109637. <a href="https://doi.org/10.1016/j.heares.2026.109637" target="_blank"  class="ai ai-doi ai-lg"></a>
+
 <h3>2025</h3>
 - ___Akkol S___, Mishra A, Markowitz N, Espinal E, Keshishian M, Mesgarani N, Schroeder C, Mehta AD, Bickel S. Neural entrainment by speech in human auditory cortex revealed by intracranial recordings. Prog Neurobiol. 2025 Oct:253:102823. <a href="https://doi.org/10.1016/j.pneurobio.2025.102823" target="_blank"  class="ai ai-doi ai-lg"></a>
 
